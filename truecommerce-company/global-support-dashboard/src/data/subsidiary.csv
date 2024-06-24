@@ -1,0 +1,62 @@
+Internal ID,Name,Legal Name,Address 1,Address 2,Address 3,City,Country,Currency,Inactive,Language,State/Province,Zip
+1,"True Commerce, Inc.","True Commerce, Inc.",90 S. Cascade Ave.,Suite 1200,,Colorado Springs,United States,US Dollar,No,English (U.S.),Colorado,80903
+2,HighJump Acquisition LLC,HighJump Acquisition LLC,5600 W. 83rd St.,"8200 Tower, Suite 600",,Bloomington,United States,US Dollar,Yes,English (U.S.),Minnesota,55437
+3,GBG Acquisition Co.,GBG Acquisition Co.,6455 City West Parkway,,,Eden Prairie,United States,US Dollar,Yes,English (U.S.),Minnesota,55344
+4,HighJump Software Inc.,HighJump Software Inc.,5600 W 83rd Street,"Suite 600, 8200 Tower",,Minneapolis,United States,US Dollar,Yes,English (U.S.),Minnesota,55437
+5,HighJump Software Asia Pacific Pty. Ltd.,HighJump Software Asia Pacific Pty. Ltd.,"Level 61,Governor Phillip Tower",1 Farrer Place,,Sydney,Australia,Australian Dollar,Yes,English (U.S.),New South Wales,2000
+6,HighJump Software Singapore Pte. Ltd.,HighJump Software Singapore Pte. Ltd.,"8 Wilkie Road,#03-01",,,Wilkie Edge,Singapore,Singapore Dollar,Yes,English (U.S.),,228095
+7,HighJump Software UK Ltd.,HighJump Software UK Ltd.,First Floor Templeback,10 Templeback,,Bristol,United Kingdom,British Pound,Yes,English (U.S.),,BS1 6JS
+8,HighJump Software I Ltd.,HighJump Software I Ltd.,5600 W 83rd Street,"Suite 600, 8200 Tower",,Minneapolis,United States,US Dollar,Yes,English (U.S.),Minnesota,55437
+9,HighJump Software Canada Inc.,HighJump Software Canada Inc.,5085 Principale-Est Ave,Unit 8,,Dieppe,Canada,Canadian Dollar,Yes,English (U.S.),Ontario,E1A 0R9
+10,HighJump Acquisition LLC-ES,,,,,,United States,US Dollar,Yes,English (U.S.),Minnesota,
+11,HighJump Software Inc-ES,HighJump Software Inc.,6455 City West Parkway,,,Eden Prairie,United States,US Dollar,Yes,English (U.S.),Minnesota,55344
+12,HighJump Software I Ltd.-ES,,6455 City West Parkway,,,Eden Prairie,United States,US Dollar,Yes,English (U.S.),Minnesota,55344
+13,GBG Acquisition Co.-ES,GBG Acquisition Co.,6455 City West Parkway,,,Eden Prairie,United States,US Dollar,Yes,English (U.S.),Minnesota,55344
+14,"HighJump (Shanghai) Software Technology Co., Ltd.","HighJump (Shanghai) Software Technology Co., Ltd.",,,,Shanghai,China,Chinese Yuan,Yes,English (U.S.),Shanghai,
+15,HighJump (Shanghai) Software Technology Co.-ES,,,,,,China,Chinese Yuan,Yes,English (U.S.),,
+16,TrueCommerce EDI Acquisition Co.,,,,,,United States,US Dollar,No,English (U.S.),Delaware,
+17,TrueCommerce Holding ApS,,,,,,Denmark,Danish Krone,No,English (U.S.),,
+18,TrueCommerce Denmark ApS,TrueCommerce Denmark ApS,"Banevænget 13, 2",,,Birkerød,Denmark,Danish Krone,No,English (U.S.),,3460
+19,TrueCommerce Norway AS,TrueCommerce Norway AS,"Cort Adelers Gate 16, 3. Etasje",,,Oslo,Norway,Norwegian Kroner,No,English (U.S.),,0254
+20,TrueCommerce EDI Acquisition Co.-ES,,,,,,United States,US Dollar,No,English (U.S.),Delaware,
+21,TrueCommerce Holdings Limited,Accellos UK Holdings Limited,70 Great Bridgewater Street,,,Manchester,United Kingdom,British Pound,No,English (U.S.),,M1 5ES
+22,TrueCommerce UK (Holdings) Limited,TrueCommerce UK (Holdings) Limited,"Atlas Suite, Greenbank House",Swan Lane,"Hindley Green,",Wigan,United Kingdom,British Pound,No,English (U.S.),,WN2 4AR
+23,TrueCommerce (Manchester) Limited,TrueCommerce (Manchester) Limited,2 New Bailey,6 Stanley Street,Salford,Greater Manchester,United Kingdom,British Pound,No,English (U.S.),,M3 5GS
+24,TrueCommerce (Oldham) Limited,TrueCommerce (Oldham) Limited,2 New Bailey,6 Stanley Street,Salford,Greater Manchester,United Kingdom,British Pound,No,English (U.S.),,M3 5GS
+25,TrueCommerce EDI (Ireland) Limited,TrueCommerce EDI (Ireland) Limited,"Suite 3,","One Earlsfort Centre,",,"Lower Hatch Street Dublin 2,",Ireland,Euro,No,English (U.S.),,Dublin
+26,"Accellos Holdings, LLC","Accellos Holdings, LLC",,,,,United States,US Dollar,No,English (U.S.),Colorado,
+27,"Accellos Intermediate Holdings, Inc.","Accellos Intermediate Holdings, Inc.",,,,,United States,US Dollar,Yes,English (U.S.),Colorado,
+28,"Accellos, Inc.","Accellos, Inc.",90 S. Cascade Avenue,Suite 1200,,Colorado Springs,United States,US Dollar,Yes,English (U.S.),Colorado,80903
+29,"Accellos Canada, Inc.","Accellos Canada, Inc.",125 Commerce Valley Drive West,Suite 700,,Markham,Canada,US Dollar,Yes,English (U.S.),Ontario,L3T 7W4
+30,Accellos Australia PTY Ltd.,,,,,,Australia,US Dollar,Yes,English (U.S.),,
+31,"TrueCommerce Network Holdings, LLC",,2500 Sand Hill Road,Suite 300,,Menlo Park,United States,US Dollar,No,English (U.S.),California,94025
+32,"TrueCommerce Network, Inc.",,90 S. Cascade Avenue,Suite 1200,,Colorado Springs,United States,US Dollar,No,English (U.S.),Colorado,80903
+33,"Nexternal Solutions, Inc.","Nexternal Solutions, Inc.","560 Carlsbad Village Drive, Suite 204",,,Carlsbad,United States,US Dollar,No,English (U.S.),California,92008
+34,TrueCommerce (Coventry) Limited,TrueCommerce (Coventry) Limited,2 New Bailey,6 Stanley Street,Salford,Greater Manchester,United Kingdom,British Pound,No,English (U.S.),,M3 5GS
+35,"Accellos Holdings, LLC - ES","Accellos Holdings, LLC",,,,,United States,US Dollar,No,English (U.S.),Colorado,
+37,"Vitech Business Group, Inc.","ViTech Business Group, Inc.","4164 Meridian Street, Suite 200",,,Bellingham,United States,US Dollar,Yes,English (U.S.),Washington,98226
+39,"RedTail Solutions, Inc.","RedTail Solutions, Inc.",112 Turnpike Road,Suite 201,,Westborough,United States,US Dollar,No,English (U.S.),Massachusetts,01581
+40,"TrueCommerce Canada, Inc.",,,,,,Canada,Canadian Dollar,No,English (U.S.),Nova Scotia,
+41,Datalliance USD,,4380 MALSBARY RD,STE 250,,Blue Ash,United States,US Dollar,No,English (U.S.),Ohio,45242
+42,Datalliance - ES,,,,,,United States,US Dollar,No,English (U.S.),Ohio,
+43,Datalliance Belgium,,,,,,Belgium,Euro,No,English (U.S.),,
+44,TrueCommerce (Shanghai) Software Technology Co. Ltd. OLD,TrueCommerce (Shanghai) Software Technology Co. Ltd.,,,,,China,US Dollar,Yes,English (U.S.),,
+45,TrueCommerce (Shanghai) Software Technology Co. Ltd.,TrueCommerce (Shanghai) Software Technology Co. Ltd.,,,,,China,Chinese Yuan,No,English (U.S.),,
+46,"TrueCommerce Network Holdings, LLC - ES",,,,,,United States,US Dollar,No,English (U.S.),Colorado,
+47,"ecUtopia, Inc.","ecUtopia, Inc.",9089 Clairemont Mesa Blvd,Suite 210,,San Diego,United States,US Dollar,No,English (U.S.),California,92123
+48,Netalogue Technologies Ltd.,Netalogue Technologies Limited,,,,,United Kingdom,British Pound,No,English (U.S.),,
+49,Netalogue Procurement Limited,Netalogue Procurement Limited,2 New Bailey,6 Stanley Street,Salford,Greater Manchester,United Kingdom,British Pound,No,English (U.S.),,M3 5GS
+50,B2BGatway (Inactive),"Shannon Systems, LLC (Inactive)",80 Palmer Circle,,,Hope Valley,United States,US Dollar,Yes,English (U.S.),Rhode Island,02832
+51,B2BGateway,"Shannon Systems, LLC",80 Palmer Circle,,,Hope Valley,United States,US Dollar,No,English (U.S.),Rhode Island,02832
+52,B2BGateway - AU,B2BGateway PTY LTD (Australia),Level 2,17-19 Bridge Street,NSW 2000,Sydney,Australia,Australian Dollar,No,English (U.S.),,
+53,B2BGateway - ES,,,,,,United States,US Dollar,No,English (U.S.),Rhode Island,
+54,B2BGateway - Ireland,B2BGateway LTD,Suite 2,Lvl 100 Bld 4000,Westpark,Shannon,Ireland,Euro,No,English (U.S.),,V14 YX01
+55,DiCentral Corporation,DiCentral Corporation,"90 S Cascade Ave., STE 1200",,,Colorado Springs,United States,US Dollar,No,English (U.S.),Texas,80903
+56,DiCentral Inc. (Canada),,"4220 de Rouen, Suite 200",,,Montreal,Canada,Canadian Dollar,No,English (U.S.),Quebec,H1V3T2
+57,DiCentral Technology (Shenzhen) Ltd. (China),,"66 Chunfang Road, Louhu, Room F, 11/F","Block B, Lushan Building",,Shenzhen,China,Chinese Yuan,No,English (U.S.),,
+59,DiCentral GmbH,DiCentral GmbH,Fraunhoferstr. 9,85737 Ismaning,,Munich,Germany,Euro,No,English (U.S.),,
+60,DiCentral Ltd. (Hong Kong),DiCentral Ltd.,Room 907 Silvercord Tower 2,30 Canton Road,,Kowloon,Hong Kong,Hong Kong Dollar,No,English (U.S.),,
+61,DiCentral Vietnam,,"Da Nang Software Park, Block 9, 9th Floor","2 Quang Trung St.,",Hai Chau Dist,Da Nang City,Viet Nam,Vietnamese dong,No,English (U.S.),,
+62,DiCentre Technologies Private Ltd (India),,Advant Navis Business Park,UNIT NO. A – 1107,"ELEVENTH FLOOR , TOWER A","PLOT 7, SECTOR – 142 NOIDA",India,Indian rupee,No,English (U.S.),,
+63,DiCentral Japan KK,,"Level 7, Toranomon 40 MT Building",5-13-1 Toranomon,,Minato-ku,Japan,Japanese Yen,No,English (U.S.),,
+64,DiCentral Ltd (UK),,,,,,United Kingdom,British Pound,No,English (U.S.),,

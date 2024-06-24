@@ -1,0 +1,239 @@
+Internal ID,Name,Supported Product,Date Created,Members,Inactive,Last Modified
+1,BDS - Dev,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+2,DSD Tier 1,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+3,SCE Platform,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+4,Documenter - Tier 2,,8/20/2011 12:33 pm,,No,2/18/2020 9:45 am
+5,SCE General,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+6,SCE Transportation,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+7,SCE Application,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+8,SCE Cloud,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+9,RouteFlex,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+10,Tier2 - Hunt Valley,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+11,Tier2 - Dallas,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+12,Charlotte Simas,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+13,Durham,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+14,Waterloo SDMS,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+15,Tier 1 Support,,8/20/2011 12:33 pm,,Yes,2/18/2020 9:45 am
+16,Route Admin - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+17,BDS - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+18,SDMS - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+20,Oasis - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+21,Oasis - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+22,RouteCenter - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+23,Routeflex - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+24,Routeflex - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+25,Simas - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+26,Simas - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+27,BMIS - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+28,BMIS - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+29,Award - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+30,Award - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+31,Infinium - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+32,Infinium - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+33,RXP - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+34,RXP - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+35,RNP - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+36,RNP - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+37,VMMS - Tier 2,,10/28/2011 1:56 am,,No,2/18/2020 9:45 am
+38,VMMS - Dev,,10/28/2011 1:56 am,,No,2/18/2020 9:45 am
+39,DDE/LM - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+40,DDE/LM - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+41,PowerTools - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+42,PowerTools - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+44,SDMS - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+45,MSA - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+46,MSA - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+47,VC - Tier 2,,10/28/2011 1:56 am,,No,2/18/2020 9:45 am
+48,VC - Dev,,10/28/2011 1:56 am,,No,2/18/2020 9:45 am
+49,DME - Tier 2,,10/28/2011 1:56 am,,No,2/18/2020 9:45 am
+50,DME - Dev,,10/28/2011 1:56 am,,No,2/18/2020 9:45 am
+51,DEX - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+52,DEX - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+54,Documenter - Dev,,10/28/2011 1:56 am,,No,2/18/2020 9:45 am
+55,TA Legacy,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+56,RouteManager - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+57,RouteManager - Dev,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+58,MB - Tier 2,,10/28/2011 1:56 am,,Yes,2/18/2020 9:45 am
+59,HJ Internal,,10/29/2011 12:49 am,,Yes,2/18/2020 9:45 am
+60,SCE CSR,,10/30/2011 3:44 am,,Yes,2/18/2020 9:45 am
+61,Route Admin - PD,,11/2/2011 7:07 am,,Yes,2/18/2020 9:45 am
+62,RouteCenter - PD,,11/2/2011 7:07 am,,Yes,2/18/2020 9:45 am
+63,Edge - PD,,11/2/2011 7:07 am,,No,2/18/2020 9:45 am
+64,Legacy - PD,,11/2/2011 7:07 am,,Yes,2/18/2020 9:45 am
+65,RouteCenter - Deploy,,11/2/2011 6:03 pm,,Yes,2/18/2020 9:45 am
+66,RouteCenter - Issues,,11/2/2011 6:03 pm,,Yes,2/18/2020 9:45 am
+67,SCE PSG,,9/20/2012 12:16 pm,,Yes,2/18/2020 9:45 am
+68,OmniTech - Tier 2,,11/26/2012 12:06 pm,,Yes,2/18/2020 9:45 am
+69,OmniTech - Dev,,11/26/2012 12:06 pm,,Yes,2/18/2020 9:45 am
+70,Survey Manager - Dev,,1/23/2013 12:29 pm,,Yes,2/18/2020 9:45 am
+71,Survey Manager - Tier 2,,1/23/2013 12:29 pm,,Yes,2/18/2020 9:45 am
+72,SAGE Tier 2,,1/5/2015 3:02 pm,,Yes,2/18/2020 9:45 am
+73,AccellosOne Collect for GP,,2/8/2016 12:43 pm,,No,2/8/2016 12:43 pm
+74,AccellosOne WMS,,2/8/2016 12:43 pm,,No,2/8/2016 12:43 pm
+75,Warehouse Advantage,,2/8/2016 12:43 pm,,No,2/8/2016 12:43 pm
+76,Essentials,,7/7/2016 5:51 pm,,No,2/18/2020 9:45 am
+77,3PL AccellosOne,,7/26/2016 11:13 am,,Yes,2/18/2020 9:45 am
+78,TMS AccellosOne,,7/26/2016 11:13 am,,Yes,2/18/2020 9:45 am
+79,PTS - Prophesy,,10/12/2016 12:45 pm,,Yes,2/18/2020 9:45 am
+80,PSI Support,,11/30/2016 9:50 am,,Yes,2/18/2020 9:45 am
+81,TC-NA-Billing,,12/16/2016 10:18 am,"Sara Amigo,TC-NA-Billing,TrueCommerce Billing",No,8/17/2023 6:55 am
+82,TC-NA-Technical Support,,12/16/2016 10:18 am,,Yes,1/12/2024 1:13 pm
+83,TC-NA-Technical Support (SW),,12/16/2016 10:18 am,,Yes,1/12/2024 1:15 pm
+84,TC-NA-Migrations - On Hold,,12/16/2016 10:18 am,,No,2/18/2020 9:45 am
+85,TC-NA-Migrations,,12/16/2016 10:18 am,"TC-NA-Migrations,TC-NA-Migrations - On Hold",No,8/17/2023 6:55 am
+86,TC-NA-Integration Support,,12/16/2016 10:18 am,,Yes,1/17/2024 10:02 am
+87,TC-NA-NEXUS AX EDI Support (Columbus),,12/16/2016 10:18 am,,Yes,1/12/2024 1:16 pm
+88,TC-NA-EDI Support (Columbus),,12/16/2016 10:18 am,,No,2/18/2020 9:45 am
+89,TC-NA-Trading Partner Services,,12/16/2016 10:18 am,"Brian Mowry,Bruce Bullock,Dan Robertson,Krystal Calvin,TC-NA-Trading Partner Services",No,8/17/2023 6:56 am
+90,TC-NA-Mapping,,12/16/2016 10:18 am,TC-NA-Mapping,No,8/17/2023 6:55 am
+91,TC-NA-Implementations,,12/16/2016 10:18 am,,No,2/18/2020 9:45 am
+92,TC-NA-Integration Specialist,,12/16/2016 10:18 am,,Yes,1/17/2024 10:03 am
+93,TC-NA-Implementation Support,,12/16/2016 10:18 am,,No,2/18/2020 9:45 am
+94,TC-NA-Trading Partner Specialist,,12/16/2016 10:18 am,,No,2/18/2020 9:45 am
+95,TC-COV-Managed Services,OneTime,12/16/2016 10:18 am,"Annie Nguyen,Farah Nguyen,Greg Hoang,Kat Nguyen,Kelly Lam,Lin Thieu,Logan Tran,Rachel Nguyen,Serena Le,TC-COV-Managed Services,Theo Huynh,Tiffany Tieu,Vicky Tran,Vivian Nguyen",No,4/25/2024 1:02 am
+96,TC-COV-ACR,OneTime,12/16/2016 10:18 am,,No,1/12/2024 11:30 am
+97,TC-COV-Software Support,OneTime,12/16/2016 10:18 am,,No,1/12/2024 11:30 am
+98,TC-COV-Implementations,OneTime,12/16/2016 10:18 am,,No,1/12/2024 11:30 am
+99,TC-COV-Mapping,OneTime,12/16/2016 10:18 am,,No,1/12/2024 11:30 am
+100,TC-COV-Development,OneTime,12/16/2016 10:18 am,,No,1/12/2024 11:30 am
+101,TC-COV-QA,OneTime,12/16/2016 10:18 am,,No,1/12/2024 11:30 am
+102,TC-COV-Technical Consulting,OneTime,12/16/2016 10:18 am,,No,1/12/2024 11:30 am
+103,TC-MAN-Technical Support,,12/16/2016 10:18 am,TC-MAN-Technical Support,No,8/17/2023 6:54 am
+104,TC-MAN-Technical Support Ireland,,12/16/2016 10:18 am,TC-MAN-Technical Support Ireland,No,8/17/2023 6:54 am
+105,TC-MAN-Fusion Support,,12/16/2016 10:18 am,,Yes,2/18/2020 9:45 am
+106,TC-MAN-Development Support,,12/16/2016 10:18 am,,Yes,2/18/2020 9:45 am
+107,TC-MAN-Orbit Support,,12/16/2016 10:18 am,,Yes,2/18/2020 9:45 am
+108,DK Managed Service,eBroker,12/16/2016 10:18 am,"Christina Filote,DK Managed Service,DK Unassigned,Jonas Ploehn,Kasper Klarskov,Kitt Terp,Nicolai Bak",No,3/25/2024 4:29 am
+109,DK 0 Error Dispatch,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+110,DK 1st Error Reporting,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+111,DK 1st Level Consulting,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+112,DK 1st Level Error Support,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+113,DK Support,eBroker,12/16/2016 10:18 am,"Andreas Voukelatos Jørgensen,DK Support,DK Support,Henrik Jensen",No,1/12/2024 11:29 am
+114,DK 2nd Level Consulting,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+115,DK 2nd Level MBS,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+116,DK 3rd Level Product Development,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+117,DK Accounting,eBroker,12/16/2016 10:18 am,DK Accounting,No,1/12/2024 11:29 am
+118,DK Client Support Manager,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+119,DK Complaint Management,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+120,DK Customer Center Project,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+121,DK Customer Center Management,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+122,DK Dispatch Projects,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+123,DK Edir,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+124,DK IP Change to new proxy,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+125,DK IT Application,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+126,DK IT Operations,eBroker,12/16/2016 10:18 am,"DK TechOps_2nd_level_Support/Delivery,Ditte Kempf-Jensen",No,1/12/2024 11:29 am
+127,DK Product Management,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+128,DK VP Change,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+129,DK VPN Access,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+130,DK VPN AS 400,eBroker,12/16/2016 10:18 am,,No,1/12/2024 11:29 am
+131,3PL AccellosOne - Level 2,,12/30/2016 3:04 pm,,Yes,2/18/2020 9:45 am
+132,3PL Allocation,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+133,3PL Billing,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+134,3PL Core – Processing Screens; Data Passes,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+135,3PL Core – Maintenance Screens,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+136,3PL Core – Enquiry,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+137,3PL Documents,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+138,3PL Documents – Labels,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+139,3PL EDI – Gateway Files,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+140,3PL Interfaces,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+141,3PL Essentials,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+142,3PL Reports,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+143,3PL RF Programs,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+144,3PL Voice,,1/19/2017 2:21 pm,,Yes,2/18/2020 9:45 am
+145,PSI Hardware Support,,2/14/2017 5:15 pm,,Yes,2/18/2020 9:45 am
+146,PSI Admin Support,,2/14/2017 5:15 pm,,Yes,2/18/2020 9:45 am
+147,PSI Barcode Support,,2/14/2017 5:15 pm,,Yes,2/18/2020 9:45 am
+148,PSI Conversion Support,,2/14/2017 5:15 pm,,Yes,2/18/2020 9:45 am
+149,PSI Software Support,,2/14/2017 5:15 pm,,Yes,2/18/2020 9:45 am
+150,PSI Systems Support,,2/14/2017 5:15 pm,,Yes,2/18/2020 9:45 am
+151,dk mapping,eBroker,3/21/2017 7:49 am,,No,1/12/2024 11:29 am
+152,MIS Support,,3/27/2017 3:45 pm,"Josh Johnson,Kriti Rohera,Mark S Kreminski,NetSuite Team",No,8/17/2023 6:45 am
+153,PSI CSA,,6/1/2017 10:49 am,,Yes,2/18/2020 9:45 am
+154,PSI Set Up,,6/1/2017 10:49 am,,Yes,2/18/2020 9:45 am
+255,Cloud Administration,,9/6/2017 12:56 pm,,No,2/18/2020 9:45 am
+256,WMS PS,,9/8/2017 1:14 pm,,Yes,2/18/2020 9:45 am
+257,Cloud Admin,,10/27/2017 5:21 pm,,Yes,2/18/2020 9:45 am
+258,TC-NA-OneTime Hub Support,,3/12/2018 3:13 pm,,No,2/18/2020 9:45 am
+259,TC-NA-OneTime Supplier Support,,3/12/2018 3:13 pm,,No,2/18/2020 9:45 am
+260,TC-MAN-Connections,,3/16/2018 11:37 am,,No,2/18/2020 9:45 am
+261,TC-MAN-Implementations,,11/27/2018 10:22 am,,No,11/27/2018 10:22 am
+262,TC-UK-Operations,,2/26/2019 9:42 am,,No,2/18/2020 9:45 am
+263,TC-UK-Integration,,5/15/2019 9:04 am,,No,2/18/2020 9:45 am
+264,TC-MCR-SoftwareSupport,,12/18/2019 7:23 am,,No,12/18/2019 7:23 am
+265,TC-NA-RT Support,,2/18/2020 9:45 am,,No,2/18/2020 9:45 am
+266,TC-NA-Microsoft Support,,3/18/2020 5:00 am,,Yes,1/12/2024 10:23 am
+267,TC-MAN-Orbit,,4/17/2020 5:17 am,TC-MAN-Orbit,No,8/17/2023 6:54 am
+268,TC-NA-Nexternal Support,,5/5/2020 8:34 am,,No,5/5/2020 8:34 am
+269,TC-UK-Netalogue Support,,6/19/2020 1:39 pm,,No,6/19/2020 1:39 pm
+270,TC-NA-OneTime Mapping,,3/8/2021 5:24 am,,No,3/8/2021 5:24 am
+271,TC.NET Core - Customer Success,Transaction Manager,6/21/2021 5:30 am,"Karlyn Balfour,Lauren Shelton,Michael Lefebvre,Tina Smith,Tommy Dunne",No,1/18/2024 12:06 pm
+272,TC.NET Core - Frontline Support,Transaction Manager,6/21/2021 5:31 am,"Amanda Nguyen,Andrew Majewski,Anthony Tran,Chloe Huynh,David McDonald,Derek Festa,Eric Metcalf,Eric Sonnet,Flora Le,George Xu,Ian Boone,Jane Tran,Jun Huynh,Justin Morrow,Justin Timpy,Kayden Huynh,Luke Vu,Nick Giuliano,Peter T Trinh,Rob McAninch,Rob McKean,Ron Thomson,Sandra Le Thao,Sean Foley,TC-NA-Technical Support,TC-NA-Tier 1+ Technical Support,Zac Elkins,Zachary Pickrell",No,5/24/2024 9:37 am
+273,TC.NET Core - Standard Integration Support,,6/21/2021 5:31 am,,Yes,1/12/2024 10:23 am
+274,RedTail Support,,6/21/2021 5:31 am,,Yes,1/17/2024 10:04 am
+275,TC.NET Core - Add-On Support,,6/21/2021 5:31 am,,No,6/21/2021 5:31 am
+276,TC.NET Core - Microsoft Integration Support,,6/21/2021 5:31 am,,Yes,3/20/2024 10:02 am
+277,TC-NA-Customer Success,,6/21/2021 5:32 am,,Yes,11/13/2023 5:39 pm
+278,TC.NET Core - Foundry Support,,6/21/2021 5:32 am,"Cory Dial,David Lucci,Rebecca Roskell-Thomas,TC-NA-Foundry Product Support",No,8/17/2023 6:57 am
+279,DK Onboarding,eBroker,9/24/2021 6:14 am,,No,1/12/2024 11:29 am
+280,DK 2nd Level Consulting-eBroker,eBroker,9/24/2021 6:14 am,"Abdi Abdullahi,DK 2nd Level Consulting,DK 2nd level consulting eBroker,Gitte Løve Hinrich,Henrik Tranevig,Jeanette L Nielsen,Laust Mølgård Laursen,Lene Sehested,Michael Helms,Mogens Kjøller Olsen,Pernille Rask",No,1/12/2024 11:29 am
+281,DK 2nd Level Consulting-IGW,eBroker,9/24/2021 6:14 am,,No,1/12/2024 11:29 am
+282,DK Project Management,eBroker,9/24/2021 6:14 am,"Jane Milner,Lone Klitte Mejer,Peter Corneliussen",No,1/12/2024 11:29 am
+283,DK IGW Project,eBroker,9/24/2021 6:15 am,,No,1/12/2024 11:29 am
+284,DK Formats,eBroker,9/24/2021 6:15 am,"Janne Olsen,Per Kiilsholm",No,5/30/2024 12:01 am
+285,DK Consulting Project,eBroker,9/24/2021 6:15 am,,No,1/12/2024 11:29 am
+286,DK 2nd Level Consulting-OneTime,eBroker,9/24/2021 6:15 am,,No,1/12/2024 11:29 am
+287,DK Platinum Support,eBroker,9/24/2021 6:15 am,"DK Platinum Support,Jeanna Faurskov Munk,Kay Dieckmann,Kenneth Larsen",No,3/25/2024 4:36 am
+289,DK Certificate,eBroker,11/16/2021 6:41 am,DK Certificat,No,1/12/2024 11:29 am
+290,DK TechOps,eBroker,11/16/2021 6:41 am,"Anders Bo Larsen,DK TechOps,Martin Larsen,Thomas Larsen",No,1/12/2024 11:29 am
+291,DK Accounting,eBroker,11/16/2021 6:41 am,DK Accounting,No,1/12/2024 11:29 am
+292,TC.NET Core - Special Engagement Team,,2/10/2022 6:23 am,,Yes,2/8/2023 8:57 am
+293,TC-UK-Training,,4/20/2022 7:56 am,,No,4/20/2022 7:56 am
+294,Implementation Support,,5/16/2022 10:24 am,Implementation Support,No,8/17/2023 6:44 am
+295,TC-VN-TP Analyst,,5/25/2022 10:09 am,,No,5/25/2022 10:09 am
+296,TC-VN-TP Engagement,,6/6/2022 10:04 am,,No,6/6/2022 10:04 am
+297,ECU Support,ecUtopia,7/11/2022 11:39 am,"Bill Stults,Charlotte Meng,Jessica Chen,Maxime Therrien,Philip Song,TC-NA-ECU Support,Tommy Simcox",No,2/6/2024 8:12 am
+298,TC-EU-Adaptor Services,,7/15/2022 6:12 am,,No,7/15/2022 6:12 am
+299,TC-EU-Adaptor Support Team,,7/15/2022 6:19 am,TC-EU-Adaptor Support Team,No,8/17/2023 6:54 am
+300,TC-DIC-TrueAuto,,11/14/2022 6:15 am,"Angie Huynh,Bryan Ho,Jc Sansone,Liam Nguyen,Natalya Nguyen,Peter Kim,Ryan Pham,Sandy Le,TC-DIC-TrueAuto,Tu Nguyen",No,5/8/2024 10:26 am
+301,TC-DIC-DiServiceBureau,,11/14/2022 6:15 am,,Yes,12/9/2022 2:12 pm
+302,TC-DIC-Emanio Team,,11/14/2022 6:15 am,,Yes,12/9/2022 2:12 pm
+303,TC-DIC-Global Integration Support,,11/14/2022 6:15 am,"Abel Nguyen,Eden Phung,Fiona Nguyen,Francisco Nguyen,Hannah Nguyen,Helios Truong,Katie Trinh,TC-DIC-Tech Support,Thaila Truong",No,4/23/2024 10:50 pm
+304,TC-DIC-Frontline Support,,11/14/2022 6:15 am,"Andy Nguyen,Audrey Duong,Ava Phan,Bella Pham,Bob Le,Danny Nguyen,Dustin Nguyen,Felix Phan,Jack Nguyen,Kai Vo,Kaycee Pham,Lucy Pham,Scarlet Do,TC-DIC-Support",No,4/23/2024 10:15 pm
+305,TC-DIC-Tech Support,,11/14/2022 6:15 am,,Yes,12/9/2022 2:13 pm
+306,TC.NET Core - Production Integration Support,"Transaction Manager, Gentran",12/7/2022 1:06 pm,"Daniel Vigrass,Doug  Heckman,Drew  Cooper,Duy Vo,George Xu,Jacob Armstrong,Jessica Chen,Jo Nguyen,John Kaminsky,Lisa Hernandez,Matthew Hajec,Michael Fralick,Philip Song,Scott Keel,Scott Muller,Sky Herald,TC-NA-Integration Support,TC-NA-Tier 1+ Integration Support,Timothy Mient,Tony  Hsieh,Zack Lindsey",No,5/24/2024 9:38 am
+307,TC-DIC-Project Management,,12/9/2022 2:02 pm,"Dima Naddaf,TC-DIC-Project Management",No,8/17/2023 6:52 am
+308,TC-DE-AddOn-Compello,DIC-Compello,1/13/2023 5:42 am,,No,1/12/2024 11:31 am
+309,ECU Development,,3/21/2023 8:23 am,"Jacob Savage_ECU,Seth Weisblatt,TC-NA-ECU Development",No,8/17/2023 6:41 am
+310,ECU-Mapping,,3/21/2023 8:23 am,"Anthony  Scrazati,Emil Olizarowicz,Jeff IM,Kelly Cowan,TC-NA-ECU-Mapping",No,10/20/2023 4:59 pm
+311,ECU-Trading Partner Services,,3/21/2023 8:23 am,"Crystal Simmons,TC-NA-ECU-Trading Partner Services,Thang Nguyen",No,6/3/2024 10:30 pm
+312,TC-DiC-Base2 Support,,4/5/2023 10:40 am,"Angie Huynh,Peter Kim,Sandy Le,Tu Nguyen",No,5/8/2024 10:25 am
+313,TC-VN-Trading Partner Specialist,,6/15/2023 7:12 am,,No,6/15/2023 7:12 am
+314,TC-VN-ECU-Trading Partner Services,,6/22/2023 10:30 am,,No,6/22/2023 10:30 am
+315,TC-DK-OneTime Managed Services,,7/6/2023 10:10 am,TC-DK-OneTime Managed Services,No,8/17/2023 6:53 am
+316,TC-DE-OneTime Managed Services,OneTime,7/6/2023 10:11 am,TC-DE-OneTime Managed Services,No,1/12/2024 11:30 am
+317,TC-DIC-AEON,,8/1/2023 9:38 am,TC-DIC-AEON,No,9/27/2023 1:47 pm
+318,TC-DIC-DiServiceBureau,,8/1/2023 9:56 am,TC-DIC-DiServiceBureau,Yes,4/23/2024 10:32 pm
+319,TC-DIC-NEA Support,,8/1/2023 9:59 am,"Anna Pham,Elisa Tran,Jane Le,TC-DIC-NEA Support",No,1/22/2024 4:57 pm
+320,TC-EU ERP Adaptor Addons,,8/2/2023 9:50 am,,No,8/2/2023 9:50 am
+321,TC-VN-Adaptor Addon Team,,8/2/2023 9:51 am,,No,8/2/2023 9:51 am
+322,TC-VN-Adaptor Support Team,,8/2/2023 9:51 am,TC-VN-Adaptor Support Team,No,9/13/2023 10:07 am
+323,TC-DIC-VN,,8/2/2023 9:54 am,,Yes,4/23/2024 10:58 pm
+324,TC-DIC-VN Tech Support ,,8/2/2023 9:56 am,,Yes,4/23/2024 10:59 pm
+325,TC-DE-OneTime Managed Services,,8/9/2023 5:23 am,TC-DE-OneTime Managed Services,Yes,8/24/2023 5:20 am
+326,TC-DK-OneTime Managed Services,,8/9/2023 5:24 am,TC-DK-OneTime Managed Services,Yes,8/24/2023 5:20 am
+327,TC-DICCA-Adaptor Support,Alligacom,10/17/2023 11:36 am,"Achref Rezgui,Alexandre Lafrechoux,Carlo DiMichele,Mohamed Sanaa,TC-DIC-Integration Support",No,1/12/2024 10:25 am
+328,ECU Implementation,,10/20/2023 5:03 pm,"Alexandra Hernandez,Amber Fritz,Charlotte Meng,Christopher McCurdy,Danica Caudillo,Emily Green,Garrett Alvarez,Georgia J Thost,Kara Whiting,Natalie Wonderley,Patrick Reagan,Sam Vought,TC-NA-ECU Add-On Work,Victoria McDonald",No,4/11/2024 8:28 am
+329,TC-Mapping-Upgrade,,2/1/2024 8:16 am,Matt Cromer,No,2/1/2024 9:52 am
+330,DK Sales,,3/7/2024 8:30 am,"Casper Ostergaard,Flemming Tolstrup Christensen,Gitte Pihl,Henrik Lohmann,Jesper Greve,Troels Lauridsen",No,3/7/2024 9:26 am
+332,TC-EU-TigerTeam,,3/18/2024 1:56 pm,,No,5/20/2024 9:45 pm
+333,TC-EU-TigerTeam-Mapping,,3/18/2024 1:57 pm,,No,5/20/2024 9:45 pm
+334,TC-EU-TigerTeam-Integration,,3/18/2024 1:57 pm,,No,5/20/2024 9:45 pm
+335,TC-EU-Integrations,,4/9/2024 3:58 pm,,No,4/9/2024 3:58 pm
+336,TC-VN-Trading Partner Services,,4/25/2024 8:49 pm,"Archie Tran,Dwayne Vo",No,4/25/2024 8:49 pm
+337,TC-NA-Upgrade-Program,,4/26/2024 10:52 am,Jason Mann,No,4/26/2024 10:52 am
+338,TC.NET Core - Starter Cohort Support,Transaction Manager - Starter <5k,4/29/2024 12:06 pm,"Jane Tran,Peter T Trinh,Sandra Le Thao,TC-VN/NA-Starter Cohort (new base)",No,4/29/2024 12:25 pm
+339,Corp IT Team,Corporate IT,5/8/2024 2:41 pm,"Bob Parker,Dave McCauley,Jay Mostafa,Joe Maxwell,Morten Hadberg Eckhoff,Robert Holsting,Sean Ross,Timothy Steinman,Tom Carden,Will Johnson",No,5/8/2024 2:44 pm
+340,Corp IT Desktop Support,Corp End User Support,5/8/2024 2:42 pm,"Bob Parker,Dave McCauley,Jay Mostafa,Robert Holsting,Sean Ross,Will Johnson",No,5/9/2024 8:29 am
+341,Corp IT System Administrator,Corp IT Systems,5/8/2024 2:43 pm,"Morten Hadberg Eckhoff,Tom Carden",No,5/8/2024 2:43 pm
+342,Corp IT Network Administrator,Corp Network,5/8/2024 2:45 pm,"Joe Maxwell,Timothy Steinman",No,5/8/2024 2:45 pm
+343,TC-EU-TigerTeam-TPA,,5/30/2024 11:39 pm,,No,5/30/2024 11:39 pm
